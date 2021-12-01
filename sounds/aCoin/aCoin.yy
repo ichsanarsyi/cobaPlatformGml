@@ -13,8 +13,8 @@
   "soundFile": "aCoin.wav",
   "duration": 0.144376,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
   "name": "aCoin",

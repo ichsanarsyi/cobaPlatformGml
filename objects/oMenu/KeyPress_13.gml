@@ -5,7 +5,7 @@ if (nomor == 0){
 } else if (nomor == 40) {
 	room_goto(rAbout);
 } else if (nomor == 80) {
-	if (show_question("Proceed to exit?")){
+	// if (show_question("Proceed to exit?")){
 		game_end();
-	}
+	//}
 }

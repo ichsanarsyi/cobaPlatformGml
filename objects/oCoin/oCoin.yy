@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sCoin_strip12",
-    "path": "sprites/sCoin_strip12/sCoin_strip12.yy",
+    "name": "sScroll",
+    "path": "sprites/sScroll/sScroll.yy",
   },
   "solid": false,
   "visible": true,

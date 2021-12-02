@@ -26,6 +26,7 @@
     {"id":{"name":"sKomik","path":"sprites/sKomik/sKomik.yy",},"order":12,},
     {"id":{"name":"sPixel","path":"sprites/sPixel/sPixel.yy",},"order":11,},
     {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},"order":1,},
+    {"id":{"name":"sScroll","path":"sprites/sScroll/sScroll.yy",},"order":13,},
     {"id":{"name":"oKomik","path":"objects/oKomik/oKomik.yy",},"order":7,},
     {"id":{"name":"rGamePlay","path":"rooms/rGamePlay/rGamePlay.yy",},"order":1,},
   ],

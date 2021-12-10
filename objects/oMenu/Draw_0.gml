@@ -9,7 +9,8 @@ draw_text(room_width/2, room_height/2 - 100, "MENU");
 
 draw_set_font(fMenu);
 draw_text(room_width/2, room_height/2, "START");
-draw_text(room_width/2, room_height/2 + 40, "ABOUT");
-draw_text(room_width/2, room_height/2 + 80, "EXIT");
+draw_text(room_width/2, room_height/2 + 40, "HIGH SCORE");
+draw_text(room_width/2, room_height/2 + 80, "ABOUT");
+draw_text(room_width/2, room_height/2 + 120, "EXIT");
 
-draw_text(room_width/2, room_height/2 + nomor, ">                     <");
+draw_text(room_width/2, room_height/2 + nomor, ">                             <");

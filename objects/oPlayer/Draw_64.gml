@@ -10,5 +10,5 @@ var width = display_get_gui_width()
 draw_sprite(sScroll, 0, width - draw_x, draw_y)
 
 draw_set_halign(fa_right);
-draw_text(width - (draw_x - 25), draw_y + 43, coins);
+draw_text(width - (draw_x - 25), draw_y + 43, global.current_score);
 draw_set_halign(fa_left);

@@ -1,2 +1,3 @@
 /// @description game restart
-game_restart();
+room_restart();
+global.current_score = 0;

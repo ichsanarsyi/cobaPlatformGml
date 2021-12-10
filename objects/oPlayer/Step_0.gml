@@ -1,5 +1,6 @@
 /// @description step code
-var xDirection = keyboard_check(ord("D")) - keyboard_check(ord("Q"));
+// var xDirection = keyboard_check(ord("D")) - keyboard_check(ord("Q"));
+var xDirection = keyboard_check(vk_right) - keyboard_check(vk_left);
 var jump = keyboard_check_pressed(vk_space);
 var onTheGround = place_meeting(x, y + 1, oWall);
 

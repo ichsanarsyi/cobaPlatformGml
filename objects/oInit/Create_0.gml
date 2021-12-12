@@ -8,6 +8,7 @@ window_set_fullscreen(true);
 // global.current_score = global.coins;
 global.current_score = 0;
 global.highscore = 0;
+global.cekSound = 0;
 
 // load highscore 
 highscore_load();

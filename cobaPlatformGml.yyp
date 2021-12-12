@@ -28,6 +28,7 @@
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":2,},
     {"id":{"name":"oAbout","path":"objects/oAbout/oAbout.yy",},"order":5,},
     {"id":{"name":"rGameOver","path":"rooms/rGameOver/rGameOver.yy",},"order":5,},
+    {"id":{"name":"aMenu","path":"sounds/aMenu/aMenu.yy",},"order":3,},
     {"id":{"name":"rKomik","path":"rooms/rKomik/rKomik.yy",},"order":3,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":8,},
     {"id":{"name":"aMenuSwipe","path":"sounds/aMenuSwipe/aMenuSwipe.yy",},"order":0,},

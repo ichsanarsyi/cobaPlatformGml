@@ -1,4 +1,5 @@
 /// @description komik1 general
+audio_stop_sound(aMenu);
 
 ypos = 0;
 a = 1;

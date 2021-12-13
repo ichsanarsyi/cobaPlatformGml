@@ -3,6 +3,7 @@
   "glyphOperations": 0,
   "interpreter": 0,
   "pointRounding": 0,
+  "applyKerning": 0,
   "fontName": "JetBrains Mono ExtraBold",
   "styleName": "ExtraBold",
   "size": 60.0,

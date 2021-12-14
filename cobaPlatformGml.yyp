@@ -38,6 +38,7 @@
     {"id":{"name":"fTitle","path":"fonts/fTitle/fTitle.yy",},"order":0,},
     {"id":{"name":"tGround","path":"tilesets/tGround/tGround.yy",},"order":0,},
     {"id":{"name":"rStage2","path":"rooms/rStage2/rStage2.yy",},"order":8,},
+    {"id":{"name":"rKomik2","path":"rooms/rKomik2/rKomik2.yy",},"order":12,},
     {"id":{"name":"sNaskah33","path":"sprites/sNaskah33/sNaskah33.yy",},"order":27,},
     {"id":{"name":"oDoorsController","path":"objects/oDoorsController/oDoorsController.yy",},"order":14,},
     {"id":{"name":"rStage2End","path":"rooms/rStage2End/rStage2End.yy",},"order":9,},
@@ -53,6 +54,7 @@
     {"id":{"name":"aMenuSwipe","path":"sounds/aMenuSwipe/aMenuSwipe.yy",},"order":0,},
     {"id":{"name":"oInit","path":"objects/oInit/oInit.yy",},"order":10,},
     {"id":{"name":"oScroll","path":"objects/oScroll/oScroll.yy",},"order":3,},
+    {"id":{"name":"okomik2","path":"objects/okomik2/okomik2.yy",},"order":19,},
     {"id":{"name":"rAbout","path":"rooms/rAbout/rAbout.yy",},"order":2,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"sKomik","path":"sprites/sKomik/sKomik.yy",},"order":12,},
@@ -93,6 +95,7 @@
     {"roomId":{"name":"rStage2End","path":"rooms/rStage2End/rStage2End.yy",},},
     {"roomId":{"name":"rStage3","path":"rooms/rStage3/rStage3.yy",},},
     {"roomId":{"name":"rStage3End","path":"rooms/rStage3End/rStage3End.yy",},},
+    {"roomId":{"name":"rKomik2","path":"rooms/rKomik2/rKomik2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -121,7 +124,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.7.606",
+    "IDEVersion": "2.3.6.595",
   },
   "resourceVersion": "1.4",
   "name": "cobaPlatformGml",

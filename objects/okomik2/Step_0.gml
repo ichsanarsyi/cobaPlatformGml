@@ -32,7 +32,9 @@ if ((holdspace > 5) || (ypos > 1420)){
 
 if ((a == 1) && (fadeout == 1)){
 	global.cekStage = 0;
-	global.cekSound = 0;
+	global.cekSound = 0
+	audio_stop_sound(aProklamasi);
 	room_goto(rMenu);
 }
+
 

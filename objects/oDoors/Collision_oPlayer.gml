@@ -22,10 +22,13 @@ if (oPlayer.scroll == 3) && (collision_circle(oPlayer.x, oPlayer.y, 32, oPlayer,
 		}
 		
 		if (global.cekStage == 1) {
+			audio_stop_sound(aGameplay);
 			room_goto(rStage1End);
 		} else if (global.cekStage == 2) {
+			audio_stop_sound(aGameplay);
 			room_goto(rStage2End);
 		} else if (global.cekStage == 3) {
+			audio_stop_sound(aGameplay);
 			room_goto(rStage3End);
 		}
 	}

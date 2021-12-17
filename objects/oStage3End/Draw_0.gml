@@ -43,5 +43,5 @@ if (global.highscore3 != infinity) {
 	draw_text(room_width/2, room_height/2 + 120, "HIGHSCORE STAGE 3: ??? DETIK");
 }
 
-draw_text(room_width/2, room_height/2 + 140, "TEKAN <ENTER> UNTUK MELANJUTKAN (Work in porgress)");
+draw_text(room_width/2, room_height/2 + 140, "TEKAN <ENTER> UNTUK MELANJUTKAN");
 draw_text(room_width/2, room_height/2 + 160, "TEKAN <ESC> UNTUK KEMBALI KE MENU");

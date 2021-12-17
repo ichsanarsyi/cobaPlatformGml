@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "okomik2",
+  "name": "oKomik2",
   "tags": [],
   "resourceType": "GMObject",
 }

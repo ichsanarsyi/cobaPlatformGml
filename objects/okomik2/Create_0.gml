@@ -1,5 +1,5 @@
-/// @description komik1 general
-audio_stop_sound(aMenu);
+/// @description komik2 general
+audio_play_sound(aProklamasi, 4, false);
 
 ypos = 0;
 a = 1;
@@ -13,9 +13,16 @@ next = 0;
 
 holdspace = 0;
 
-strings[0] = "Kami bangsa Indonesia dengan ini menjatakan Kemerdekaan Indonesia.";
-strings[1] = "Hal-hal jang mengenai pemindahan kekoeasaan d.l.l.,";
-strings[2] = "diselenggarakan dengan tjara seksama dan dalam tempo jang sesingkat-singkatnja.";
-strings[3] = "Djakarta, hari 17 boelan 8 tahoen 05";
-strings[4] = "Atas nama bangsa Indonesia";
-strings[5] = "Soekarno/Hatta.";
+strings[0] = "Proklamasi";
+strings[1] = "Kami";
+strings[2] = "bangsa Indonesia";
+strings[3] = "dengan ini menjatakan Kemerdekaan Indonesia.";
+strings[4] = "Hal-hal jang mengenai pemindahan kekoeasaan";
+strings[5] = "d.l.l.,";
+strings[6] = "diselenggarakan dengan tjara saksama";
+strings[7] = "dan dalam tempo jang sesingkat-singkatnja.";
+strings[8] = "Djakarta,";
+strings[9] = "hari 17 boelan 8 tahoen 05";
+strings[10] = "Atas nama bangsa Indonesia";
+strings[11] = "Soekarno/Hatta.";
+strings[12] = "";

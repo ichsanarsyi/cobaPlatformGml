@@ -1,7 +1,7 @@
 /// @description system flow
 
 camera_set_view_pos(view_camera[0], 0, ypos);
-ypos = min(ypos + 0.4, 1460);
+ypos = min(ypos + 0.285, 1460);
 
 if (!fadeout){
 	a = max(a - 0.005, 0.25);
@@ -31,7 +31,8 @@ if ((holdspace > 5) || (ypos > 1420)){
 }
 
 if ((a == 1) && (fadeout == 1)){
-	global.cekStage = 1;
-	room_goto(rStage1);
+	global.cekStage = 0;
+	global.cekSound = 0;
+	room_goto(rMenu);
 }
 

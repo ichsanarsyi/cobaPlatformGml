@@ -1,5 +1,6 @@
 /// @description komik1 general
 audio_stop_sound(aMenu);
+audio_play_sound(aIntro, 2, false);
 
 ypos = 0;
 a = 1;

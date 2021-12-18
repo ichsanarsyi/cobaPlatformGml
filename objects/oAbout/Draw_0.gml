@@ -11,7 +11,7 @@ draw_set_font(fContent);
 draw_text(
 	room_width/2,
 	room_height/2 - 110,
-	"Game <???> merupakan sebuah permainan uji ketangkasan");
+	"Game 'Berdjoeang Merdeka' merupakan sebuah permainan uji ketangkasan");
 draw_text(
 	room_width/2,
 	room_height/2 - 95,

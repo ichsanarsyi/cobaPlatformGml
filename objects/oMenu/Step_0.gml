@@ -1,19 +1,19 @@
 /// @description control step
 
 if keyboard_check_pressed(vk_up){
-	if (nomor != 0){
-		nomor -= 40;
+	if (nomor != 50){
+		nomor -= 30;
 	} else {
-		nomor = 40 * 3;
+		nomor = 140;
 	}
 	audio_play_sound(aMenuSwipe, 1, false);
 }
 
 if keyboard_check_pressed(vk_down){
-	if (nomor != 40 * 3){
-		nomor += 40;
+	if (nomor != 140){
+		nomor += 30;
 	} else {
-		nomor = 0;
+		nomor = 50;
 	}
 	audio_play_sound(aMenuSwipe, 1, false);
 }

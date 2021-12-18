@@ -12,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "aGameplay.mp3",
-  "duration": 174.942047,
+  "duration": 231.1053,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

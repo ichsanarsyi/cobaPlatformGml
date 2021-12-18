@@ -32,7 +32,7 @@ if ((holdspace > 5) || (ypos > 1420)){
 
 if ((a == 1) && (fadeout == 1)){
 	global.cekStage = 1;
-	room_goto(rStage1);
 	audio_stop_sound(aIntro);
+	room_goto(rStage1);
 }
 

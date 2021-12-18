@@ -8,5 +8,3 @@ text_current = "";
 w = 0;
 h = 0;
 border = 10;
-
-nextRoom = rMenu;

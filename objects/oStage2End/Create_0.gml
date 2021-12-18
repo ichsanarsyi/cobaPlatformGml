@@ -7,3 +7,5 @@ if(global.current_score < global.highscore2) {
 	// save highscore
 	highscore2_save();
 }
+
+audio_play_sound(aStageComplete, 6, false);
